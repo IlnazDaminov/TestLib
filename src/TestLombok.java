@@ -11,6 +11,6 @@ public class TestLombok{
     private int b;
 
     public void hiLog(){
-        log.log(Level.WARNING,"Hello from loger");
+        log.log(Level.WARNING,"Hello loger");
     }
 }
